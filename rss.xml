@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Build Your Own AR-15]]></title>
+        <description><![CDATA[Build Your Own AR-15]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 17:06:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Build your Own AR-15]]></title>
+            <description><![CDATA[<article><h1>Build your Own AR-15</h1><p>You Can build your own AR-15, one that is not registered or has no serial number but, is 100% legal. The Bureau of Tobacco, Alcohol, and Firearms states that you can build your own gun for your own use. The parts, jigs, tools are readily available </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b31d52de-9fc1-4dc0-8dec-835e00c3ce6c.jpg"></article>]]></description>
+            <link>undefinedbuild-your-own-ar-15/index.html</link>
+            <guid isPermaLink="false">6471ef93-9f87-4615-b800-9e89c6d084e8</guid>
+            <pubDate>Tue, 29 Mar 2016 17:06:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
